@@ -36,7 +36,6 @@ This assignment should prove that a student is able to:
 - [ ] Submit a txt file with the Github repo url.
 
 ## Specific requirements
-
 - [ ] Create an html file with the name of "index" in the root of the project
 - [ ] Add HTML Boilerplate to the document
 - [ ] The Document's head should have a meta tag that defines the charset
